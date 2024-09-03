@@ -18,7 +18,7 @@ contract Memecoin is ERC20 {
 
 ## Links Rapidos
 
-- <a target="_blank" href="https://remix.ethereum.org">Remix</a>
-- <a target="_blank" href="https://explorer.lachain.network/">Explorer LaChain Network</a>
-- <a target="_blank" href="https://sambaswap.xyz">SambaSwap</a>
-- <a target="_blank" href="https://www.lachain.network/">LaChain HomePage</a>
+- <a target="blank" href="https://remix.ethereum.org">Remix</a>
+- <a target="blank" href="https://explorer.lachain.network/">Explorer LaChain Network</a>
+- <a target="blank" href="https://sambaswap.xyz">SambaSwap</a>
+- <a target="blank" href="https://www.lachain.network/">LaChain HomePage</a>
